@@ -6,18 +6,12 @@ dependencies:
     version: 10.5.10
 deprecated: false
 description: Advanced tool to create your own TrueCharts-based App
-home: https://truecharts.org/docs/charts/stable/custom-app
-icon: https://truecharts.org/img/hotlink-ok/chart-icons/custom-app.png
 keywords:
   - custom
 kubeVersion: ">=1.16.0-0"
-maintainers:
-  - email: info@truecharts.org
-    name: TrueCharts
-    url: https://truecharts.org
-name: custom-app
+name: dq-custom-app
 sources:
-  - https://github.com/truecharts/charts/tree/master/charts/stable/custom-app
+  - https://github.com/Danisquick/charts/blob/master/charts/stable/custom-app/
 type: application
 version: 5.1.61
 annotations:
